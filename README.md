@@ -18,6 +18,7 @@ public class InputGenerator {
 
 ![](assert/result.png)
 
+`score error` 表示`±`
 
 ## doc
 <http://java-performance.info/performance-general-compression>
